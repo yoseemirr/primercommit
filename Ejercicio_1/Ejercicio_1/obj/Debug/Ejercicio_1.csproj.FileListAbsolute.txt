@@ -1,0 +1,6 @@
+d:\usuarios\alumno\documentos\visual studio 2012\Projects\Ejercicio_1\Ejercicio_1\bin\Debug\Ejercicio_1.exe.config
+D:\usuarios\alumno\documentos\Visual Studio 2012\Projects\Ejercicio_1\Ejercicio_1\bin\Debug\Ejercicio_1.exe
+D:\usuarios\alumno\documentos\Visual Studio 2012\Projects\Ejercicio_1\Ejercicio_1\bin\Debug\Ejercicio_1.pdb
+D:\usuarios\alumno\documentos\Visual Studio 2012\Projects\Ejercicio_1\Ejercicio_1\obj\Debug\Ejercicio_1.csprojResolveAssemblyReference.cache
+D:\usuarios\alumno\documentos\Visual Studio 2012\Projects\Ejercicio_1\Ejercicio_1\obj\Debug\Ejercicio_1.exe
+D:\usuarios\alumno\documentos\Visual Studio 2012\Projects\Ejercicio_1\Ejercicio_1\obj\Debug\Ejercicio_1.pdb

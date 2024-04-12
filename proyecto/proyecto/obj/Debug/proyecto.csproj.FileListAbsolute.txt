@@ -1,0 +1,3 @@
+d:\usuarios\alumno\documentos\visual studio 2012\Projects\proyecto\proyecto\bin\Debug\proyecto.exe.config
+d:\usuarios\alumno\documentos\visual studio 2012\Projects\proyecto\proyecto\obj\Debug\proyecto.exe
+d:\usuarios\alumno\documentos\visual studio 2012\Projects\proyecto\proyecto\obj\Debug\proyecto.pdb

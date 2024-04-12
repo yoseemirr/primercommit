@@ -1,0 +1,6 @@
+d:\usuarios\alumno\documentos\visual studio 2012\Projects\nropares\nropares\bin\Debug\nropares.exe.config
+d:\usuarios\alumno\documentos\visual studio 2012\Projects\nropares\nropares\obj\Debug\nropares.csprojResolveAssemblyReference.cache
+D:\usuarios\alumno\documentos\Visual Studio 2012\Projects\nropares\nropares\bin\Debug\nropares.exe
+D:\usuarios\alumno\documentos\Visual Studio 2012\Projects\nropares\nropares\bin\Debug\nropares.pdb
+D:\usuarios\alumno\documentos\Visual Studio 2012\Projects\nropares\nropares\obj\Debug\nropares.exe
+D:\usuarios\alumno\documentos\Visual Studio 2012\Projects\nropares\nropares\obj\Debug\nropares.pdb

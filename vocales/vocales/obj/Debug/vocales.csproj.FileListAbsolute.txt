@@ -1,0 +1,6 @@
+d:\usuarios\alumno\documentos\visual studio 2012\Projects\vocales\vocales\bin\Debug\vocales.exe.config
+d:\usuarios\alumno\documentos\visual studio 2012\Projects\vocales\vocales\obj\Debug\vocales.csprojResolveAssemblyReference.cache
+d:\usuarios\alumno\documentos\visual studio 2012\Projects\vocales\vocales\bin\Debug\vocales.exe
+d:\usuarios\alumno\documentos\visual studio 2012\Projects\vocales\vocales\bin\Debug\vocales.pdb
+d:\usuarios\alumno\documentos\visual studio 2012\Projects\vocales\vocales\obj\Debug\vocales.exe
+d:\usuarios\alumno\documentos\visual studio 2012\Projects\vocales\vocales\obj\Debug\vocales.pdb
